@@ -1,0 +1,125 @@
+body {
+    background-color: lightcyan;
+}
+
+h1, h2 {
+    font-size: 20px;
+    font-family: -apple-system,BlinkMacSystemFont;
+    color: blue;
+    font-weight: bold;
+    text-align: left;
+}
+
+h3, h4, h5, h6 {
+    font-size: 20px;
+    font-family: -apple-system,BlinkMacSystemFont;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+    color: gray;
+
+}
+
+.navbar-brand, .nav > li > a {
+    padding: 15px;
+    font-size: 20px;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar a {
+    color:gray;
+  }
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+#box_1 {
+    background-color: white; 
+}
+
+/* Box Class */
+.box {
+    margin-top: 60px; 
+    margin-bottom: 62px; 
+    padding: 20px 20px 25px;
+    color:white;
+    background-color: white; 
+}
+
+.Vizualizations{
+    width:80% !important;
+    height:80% !important;
+}
+      
+/* Images */
+img{
+    width:100% !important;
+    height:100% !important;
+    position: center;
+    cursor: pointer;
+}
+.panel:active, .panel:focus, .panel:hover {
+    border-color: rgb(76, 47, 209);
+    border-style: solid;
+}
+
+#temp-image {
+    width:40% !important;
+    height:40% !important;
+    float: left;
+}
+
+#first, #second {
+    color:gray;
+}
+
+.nav-link:hover{
+    background-color:white !important;
+   }
+
+.table {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    text-align: right;
+}
+
+tbody td:nth-of-type(odd),
+thead th:nth-of-type(odd){
+	background: rgb(205, 229, 230);
+}
+
+.col-md-12, .col-sm-12 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+@media (min-width: 434px){
+    .navbar.bg-light {
+    background-color: #7fdfe8 !important;
+}
+}
+
+@media (max-width: 768px){
+    .navbar.bg-light {
+    background-color:rgb(230, 225, 225) !important;
+}
+}
+
+.btn:focus, .btn:active {
+    border: navy solid !important;
+}
