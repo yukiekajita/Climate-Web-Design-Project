@@ -1,4 +1,4 @@
-# Web-Design_Challenge - Web Visualization Dashboard (Latitude)
+# Web-Design-Challenge - Web Visualization Dashboard (Latitude)
 
 ## Background
 
