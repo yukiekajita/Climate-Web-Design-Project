@@ -1,14 +1,12 @@
-# Web-Design-Challenge - Web Visualization Dashboard (Latitude)
-
-## Background
-
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+## Web-Design-Visualization Dashboard
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
 I created a visualization dashboard website using visualizations that I've created in a past assignment. 
 
 In building this dashboard, I created individual pages for each plot and a means by which I can navigate between them. These pages contains the visualizations and their corresponding explanations.I also made a landing page (changed the file name to index.html for deploying the file to Github), a page where I can see a comparison of all of the plots, and another page where I can view the data used to build them.
+
+
 
 ### Website
 
