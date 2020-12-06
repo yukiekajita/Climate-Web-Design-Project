@@ -2,9 +2,9 @@
 
 ## Latitude Analysis Dashboard
 
-I created a visualization dashboard website using visualizations that created in a past assignment. 
+I created a visualization dashboard website using visualizations using my past project (API project). 
 
-In building this dashboard, I created individual pages for each plot and a means by which I can navigate between them. These pages contains the visualizations and their corresponding explanations. I also made a landing page (changed the file name to index.html for deploying the file to Github), a page where I can see a comparison of all of the plots, and another page where I can view the data used to build them.
+In building this dashboard, I created individual pages for each plot and a means by which I can navigate between them. These pages contains the visualizations and their corresponding explanations. I also made a landing page (changed the file name to index.html for deploying the file to Github), a page where I can see a comparison of all of the plots, and another page where I can view the dataset that I used for the analyses.
 
 * Website - Opening Image (Landing page)
 
@@ -12,9 +12,9 @@ In building this dashboard, I created individual pages for each plot and a means
 
 ### Website
 
-The website consists of 9 pages total, including the first project (7 papes) and the bonus project (2 pages)
+The website consists of 9 pages total.
 
-* Landing page: (indext page)
+* Landing page: (index page)
   * An explanation of the project.
   * Links to each visualizations page with a sidebar containing preview images of each plot, and clicking an image that takes the user to that visualization.
   
@@ -52,7 +52,7 @@ The website, at the top of every page, has a navigation menu that:
 
 * I used my original dataset (csv file), graphs, and table, that I created for the API Project.
 * I used a Bootstrap theme to customize my website.
-* I added extra visualizations - included extra two comparisons: The Northern and Southern Hemisphere Latitude vd Max Temperature with Correlation and Regression Analyses.
+* I added extra visualizations - included extra two comparisons: The Northern and Southern Hemisphere Latitude vs. Max Temperature with Correlation and Regression Analyses.
 * I used meaningful glyphicons next to links (latitude as a base home, plots as graphs, and data as a database) in the header.
 * I have visualization navigation on every visualizations page with an active state.
 
